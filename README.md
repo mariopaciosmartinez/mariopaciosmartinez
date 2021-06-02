@@ -16,7 +16,7 @@
 
 ## This is the place where I did my studies stuff
 
-![Logo](![Logo](https://mpmfirst.com/assets/img/logo.png))
+![Logo](http://programa.cifpponferrada.es/132x60xrojo1.png.pagespeed.ic.swH90I-xXx.png)
 
 [CIFP de Ponferrada]([LinkedIn](https://www.linkedin.com/feed/))
 
