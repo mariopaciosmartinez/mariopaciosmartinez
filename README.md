@@ -1,6 +1,6 @@
 ![Logo](https://mpmfirst.com/assets/img/logo.png)
 
-## Installation 🏗
+## 🏗 Installation 🏗
 
 1️⃣ You can read this tiny profile to know a little bit about me
 
@@ -8,7 +8,7 @@
 
 3️⃣ If we agree, I'll do my best to let you know that you have not made a mistake by giving me a chance.
 
-## This is a short presentation about me 😉
+## 😉 This is a short presentation about me 😉
 
 - 🌱 I’m currently learning technoligies like {React, PHP, NodeJs, PostgreSQL, MongoDB}
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m collaborating on create an organization whit my colleages to find the best resources in order to be helpful for the job you need
 
-## Social Media where you can find me 🌍
+## 🌍 Social Media where you can find me 🌍
 
 [LinkedIn](https://www.linkedin.com/feed/)
 
@@ -28,7 +28,7 @@
 
 [CIFP de Ponferrada](http://cifpponferrada.centros.educa.jcyl.es/sitio/)
 
-## Contact me for jobs stuffs, thanks 📫
+## 📫 Contact me for jobs stuffs, thanks 📫
 
 [mariopaciosmartinez@gmail.com](mailto:mariopaciosmartinez@gmail.com)
 
