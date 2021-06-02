@@ -10,7 +10,7 @@
 
 ## Social Media where you can find me 🌍
 
-[LinkedIn](https://www.linkedin.com/feed/){:target="_blank"}
+[LinkedIn](https://www.linkedin.com/feed/)
 
 ----
 
