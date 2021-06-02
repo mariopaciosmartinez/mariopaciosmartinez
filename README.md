@@ -1,3 +1,5 @@
+![Logo](/Users/mario/Downloads/1597869.jpg)
+
 ## This is a short presentation about me 😉
 
 - 🌱 I’m currently learning technoligies like {React, PHP, NodeJs, PostgreSQL, MongoDB}
