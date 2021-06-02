@@ -2,9 +2,9 @@
 
 ## Installation 🏗
 
-- First, you can read this tiny profile to know a little bit about me
-- Second, if you think that give me a try is fine, contact any of the possible alternatives {mail, linkedin, discord}
-- Third, if we agree, I'll do my best to let you know that you have not made a mistake by giving me a chance.
+- 1️⃣ First, you can read this tiny profile to know a little bit about me
+- 2️⃣ Second, if you think that give me a try is fine, contact any of the possible alternatives {mail, linkedin, discord}
+- 3️⃣ Third, if we agree, I'll do my best to let you know that you have not made a mistake by giving me a chance.
 
 ## This is a short presentation about me 😉
 
@@ -19,6 +19,8 @@
 [LinkedIn](https://www.linkedin.com/feed/)
 
 [instagram](https://www.instagram.com/mariopaciosmartinez/)
+
+[discord](P4c1us#0590)
 
 ## This is the place where I did my studies stuff
 
