@@ -18,7 +18,7 @@
 
 ![Logo](http://programa.cifpponferrada.es/132x60xrojo1.png.pagespeed.ic.swH90I-xXx.png)
 
-[CIFP de Ponferrada]([LinkedIn](https://www.linkedin.com/feed/))
+[CIFP de Ponferrada](http://cifpponferrada.centros.educa.jcyl.es/sitio/)
 
 ## Contact me for jobs stuffs, thanks 📫
 
