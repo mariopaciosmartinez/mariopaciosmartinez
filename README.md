@@ -18,8 +18,6 @@
 
 <img src="http://programa.cifpponferrada.es/132x60xrojo1.png.pagespeed.ic.swH90I-xXx.png" alt="CIFP de Ponferrada" width="200"/>
 
-![Logo](http://programa.cifpponferrada.es/132x60xrojo1.png.pagespeed.ic.swH90I-xXx.png)
-
 [CIFP de Ponferrada](http://cifpponferrada.centros.educa.jcyl.es/sitio/)
 
 ## Contact me for jobs stuffs, thanks 📫
