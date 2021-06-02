@@ -1,4 +1,22 @@
-### Hi there 👋
+## This is a short presentation about me 😉
+
+- 🌱 I’m currently learning technoligies like {React, PHP, NodeJs, PostgreSQL, MongoDB}
+
+- 🔭 I’m currently working on find a job where I can get the most of me for your company
+
+- 👯 I’m collaborating on creating an organization whit my colleages to find the best resources in order to be helpful for the job you need about me
+
+----
+
+## Social Media where you can find me 🌍
+
+[LinkedIn](https://www.linkedin.com/feed/){:target="_blank"}
+
+----
+
+## Contact via email 📧
+
+[mariopaciosmartinez@gmail.com](mailto:mariopaciosmartinez@gmail.com)
 
 <!--
 **mariopaciosmartinez/mariopaciosmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
