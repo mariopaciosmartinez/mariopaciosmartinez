@@ -14,6 +14,12 @@
 
 [instagram](https://www.instagram.com/mariopaciosmartinez/)
 
+## This is the place where I did my studies stuff
+
+![Logo](![Logo](https://mpmfirst.com/assets/img/logo.png))
+
+[CIFP de Ponferrada]([LinkedIn](https://www.linkedin.com/feed/))
+
 ## Contact me for jobs stuffs, thanks 📫
 
 [mariopaciosmartinez@gmail.com](mailto:mariopaciosmartinez@gmail.com)
