@@ -2,9 +2,9 @@
 
 ## Installation 🏗
 
-- 1️⃣ You can read this tiny profile to know a little bit about me
-- 2️⃣ If you think that give me a try is fine, contact any of the possible alternatives {mail, linkedin}
-- 3️⃣ If we agree, I'll do my best to let you know that you have not made a mistake by giving me a chance.
+1️⃣ You can read this tiny profile to know a little bit about me
+2️⃣ If you think that give me a try is fine, contact any of the possible alternatives {mail, linkedin}
+3️⃣ If we agree, I'll do my best to let you know that you have not made a mistake by giving me a chance.
 
 ## This is a short presentation about me 😉
 
