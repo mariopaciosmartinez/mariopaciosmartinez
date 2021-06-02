@@ -1,4 +1,4 @@
-![Logo](/Users/mario/Downloads/1597869.jpg)
+![Logo](https://mpmfirst.com/assets/img/logo.png)
 
 ## This is a short presentation about me 😉
 
