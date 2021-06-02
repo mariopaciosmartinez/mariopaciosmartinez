@@ -1,5 +1,11 @@
 ![Logo](https://mpmfirst.com/assets/img/logo.png)
 
+## Installation 🏗
+
+- First, you can read this tiny profile to know a little bit about me
+- Second, if you think that give me a try is fine, contact any of the possible alternatives {mail, linkedin, discord}
+- Third, if we agree, I'll do my best to let you know that you have not made a mistake by giving me a chance.
+
 ## This is a short presentation about me 😉
 
 - 🌱 I’m currently learning technoligies like {React, PHP, NodeJs, PostgreSQL, MongoDB}
