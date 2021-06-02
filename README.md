@@ -6,13 +6,15 @@
 
 - 🔭 I’m currently working on find a job where I can get the most of me for your company
 
-- 👯 I’m collaborating on creating an organization whit my colleages to find the best resources in order to be helpful for the job you need about me
+- 👯 I’m collaborating on create an organization whit my colleages to find the best resources in order to be helpful for the job you need
 
 ## Social Media where you can find me 🌍
 
 [LinkedIn](https://www.linkedin.com/feed/)
 
-## Contact me for jobs stuffs, I don't care anything else 📧
+[instagram](https://www.instagram.com/mariopaciosmartinez/)
+
+## Contact me for jobs stuffs, thanks 📫
 
 [mariopaciosmartinez@gmail.com](mailto:mariopaciosmartinez@gmail.com)
 
