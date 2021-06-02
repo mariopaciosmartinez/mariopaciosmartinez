@@ -24,7 +24,9 @@
 
 ## This is the place where I did my studies stuff
 
-<img src="http://programa.cifpponferrada.es/132x60xrojo1.png.pagespeed.ic.swH90I-xXx.png" alt="CIFP de Ponferrada" width="200"/>The Integrated Vocational Training Center of Ponferrada was born in the 2013-14 academic year with the professional families of Communication, Image and Sound, Administration and Management and Computer Science and Communications. 
+<img src="http://programa.cifpponferrada.es/132x60xrojo1.png.pagespeed.ic.swH90I-xXx.png" alt="CIFP de Ponferrada" width="200"/>
+
+The Integrated Vocational Training Center of Ponferrada was born in the 2013-14 academic year with the professional families of Communication, Image and Sound, Administration and Management and Computer Science and Communications. 
  
 In total there are seven training cycles of Middle Grade, Superior and distance mode.
  
