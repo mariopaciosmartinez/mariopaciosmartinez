@@ -16,7 +16,7 @@
 
 ----
 
-## Contact via email 📧
+## Contact me for jobs stuffs, I don't care anything else 📧
 
 [mariopaciosmartinez@gmail.com](mailto:mariopaciosmartinez@gmail.com)
 
