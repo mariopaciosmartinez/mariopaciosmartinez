@@ -1,6 +1,6 @@
 # Hi there, I'm Mario! 👋
 
-![mpm](logoMPM.png)
+![mpm](mpmLogo_transparent.png)
 
 Do you like my logo? It was created by using **Canva**. It's simple, I know, but it works don't you?
 
