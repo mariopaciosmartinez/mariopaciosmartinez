@@ -6,6 +6,7 @@ Do you like my logo? It was created by using **Canva**. It's simple, I know, but
 
 ## Who's Mario 👤
 
+```js
   const P4c1us = {
     name: 'Mario',
     home: {
@@ -17,6 +18,7 @@ Do you like my logo? It was created by using **Canva**. It's simple, I know, but
     hobbys: ['web design', 'motorsports', 'simracing', 'same as everyone'],
     markdown: 'I like this thing'
   }
+```
 
 ## Work in progress... 🏗
 
